@@ -1,0 +1,57 @@
+Package: io.ominousness.stackxi
+Name: StackXI
+Version: 0.5.5
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Grouped notifications, iOS 12 style. (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks (Legacy)
+Installed-Size: 488
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), firmware (<= 11.4.1), cy+cpu.arm64
+Conflicts: com.ioscreatix.intelix, com.ioscreatix.intelixbeta
+Filename: packages/io.ominousness.stackxi_0.5.5_iphoneos-arm.deb
+Depiction: ./depiction/io.ominousness.stackxi
+Icon: ./icons/io.ominousness.stackxi.png
+Size: 61416
+MD5Sum: 51e989533806aa02e975ae60d6d3a022
+SHA1: d6daa21787e31ca46b7a9956cb4ac3364d79fd8a
+SHA256: a8315da16c36e91619d8b814c6dc8de502242c38274fad8d00d995070bacf7f2
+SHA512: 9529d7b224a63b7533faca412a645d21118f2a90ed522faa9c4bd58f5462f90d84ef2ae370ede49e82e060178efeaf96a1664339b9e2f08b2dccc0e46d1e03f1
+
+Package: me.nepeta.flashyhud
+Name: FlashyHUD
+Version: 0.1.0
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Minimalist volume HUD (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 312
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker
+Filename: packages/me.nepeta.flashyhud_0.1.0_iphoneos-arm.deb
+Depiction: ./depiction/me.nepeta.flashyhud
+Icon: ./icons/me.nepeta.flashyhud.png
+Size: 27142
+MD5Sum: d31f062a0d5652d61ef1f0cca69bc39f
+SHA1: 9e434ff05bda9debbc996e1a0025edea70f397bb
+SHA256: 28dd850d0393dd9231f2492816607c6387404063ae8ada5902fce02ed7c37869
+SHA512: 04b4d906e539c19b78fece3bd4860e708b17b9b7475699d66b6aaa7be1d8fd27045ef69cc60b5e52e073800a7959e6dbb9289256ae5ca55267a2f22c688ceafa
+
+Package: me.nepeta.konban
+Name: Konban
+Version: 0.1.1
+Maintainer: Nepeta <ominousness@protonmail.com>
+Author: Nepeta <ominousness@protonmail.com>
+Description: Replaces the "Today" view with an app of your choice. (If you can't see the depiction, please use Cydia or Zebra).
+Section: Tweaks
+Installed-Size: 188
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist
+Filename: packages/me.nepeta.konban_0.1.1_iphoneos-arm.deb
+Depiction: ./depiction/me.nepeta.konban
+Icon: ./icons/me.nepeta.konban.png
+Size: 10324
+MD5Sum: 743090eac1f0c19c6db12b5b883c5989
+SHA1: 8043653526bd93d37d75d130e352208148340af9
+SHA256: 2c6bacdcb0260aacb4d6c3f1a3557fa19d50af17ffcabd5e0519b2b8380abc0a
+SHA512: 31b43eec20c31eea0b44ccb596cf8121055b5a2a65068d52ffc191bb96cead3c909eb2c80902321d1bf7a66a5e69d55fd42b5a9363aa514b17229a4fdb43acfb
