@@ -1,8 +1,8 @@
-Origin: (TRepo)
-Label: (TRepo)
+Origin: TRepo
+Label: TRepo
 Suite: Plus Ultra 
 Version: over 9000
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: (bruh.)
+Description: bruh.
